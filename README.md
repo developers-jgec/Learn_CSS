@@ -1,2 +1,2 @@
 # Learn_CSS
-A repository to get started with CSS for beginners
+A repository for getting started with CSS for beginners
