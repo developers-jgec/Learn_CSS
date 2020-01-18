@@ -1,4 +1,4 @@
-# Resources to learn HTML for free
+# Resources to learn CSS for free
 
 - [W3Schools](https://www.w3schools.com/css/)
 - [Sololearn](https://www.sololearn.com/Course/CSS/)
